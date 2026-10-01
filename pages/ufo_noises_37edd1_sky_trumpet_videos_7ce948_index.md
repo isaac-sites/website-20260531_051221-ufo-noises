@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-noises-37edd1-sky-trumpet-videos/
 description: Focused pages that expand on Sky Trumpets.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ufo_noises_37edd1_sky_trumpet_videos_7ce948
 parent_title: Sky Trumpets

@@ -203,6 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 05:06:56'
+last_modified_at: '2026-05-31 05:06:56'
 parent_title: Could Infrasound Explain UFO Vibrations?
 parent_permalink: /infrasound/
 parent_nav_short_title: Infrasound

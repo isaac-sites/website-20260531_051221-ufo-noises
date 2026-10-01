@@ -203,6 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 04:59:20'
+last_modified_at: '2026-05-31 04:59:20'
 parent_title: What Causes Mystery Booms in the Sky?
 parent_permalink: /booms/
 parent_nav_short_title: Booms

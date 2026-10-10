@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-noises-37edd1-ufo-noise-folklore/
 description: Focused pages that expand on Folklore.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ufo_noises_37edd1_ufo_noise_folklore_7b3b2f
 parent_title: Folklore

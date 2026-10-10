@@ -203,6 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 05:01:53'
+last_modified_at: '2026-05-31 05:01:53'
 parent_title: Can Sensors Catch UFO Noises?
 parent_permalink: /sensors/
 parent_nav_short_title: Sensors

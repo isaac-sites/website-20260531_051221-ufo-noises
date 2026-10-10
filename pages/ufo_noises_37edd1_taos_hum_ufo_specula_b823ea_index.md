@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-noises-37edd1-taos-hum-ufo-specula/
 description: Focused pages that expand on Taos Hum.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ufo_noises_37edd1_taos_hum_ufo_specula_b823ea
 parent_title: Taos Hum

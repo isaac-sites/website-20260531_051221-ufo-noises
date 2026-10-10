@@ -203,6 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 05:01:23'
+last_modified_at: '2026-05-31 05:01:23'
 parent_title: What Are Sky Trumpet Sounds?
 parent_permalink: /sky-trumpets/
 parent_nav_short_title: Sky Trumpets

@@ -941,5 +941,4 @@ Many witnesses describe similar humming, buzzing or vibrating sensations. Some r
 25.<a id="endnote-25"></a>
    Source: buriedsecretspodcast.com  
    Title: hallucinatory ufos and sound  
-   Link:https://www.buriedsecretspodcast.com/hallucinatory-ufos-and-sound/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Jul 2023 — Hallucinatory UFOs and sound · Sound in UFO encounters · The Estes Method, the Double-Blind Ghost Box, and strange sounds ·...</p></details>

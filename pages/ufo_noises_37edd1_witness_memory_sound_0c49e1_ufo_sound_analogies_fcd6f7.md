@@ -929,5 +929,5 @@ What they do reveal is how people confront unfamiliar sensations. Faced with an 
 21.<a id="endnote-21"></a>
    Source: buriedsecretspodcast.com  
    Title: hallucinatory ufos and sound  
-   Link:<a href="https://www.buriedsecretspodcast.com/hallucinatory-ufos-and-sound/" target="_blank" rel="noopener noreferrer nofollow">https://www.buriedsecretspodcast.com/hallucinatory-ufos-and-sound/</a>  
+   Link:https://www.buriedsecretspodcast.com/hallucinatory-ufos-and-sound/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Jul 2023 — Hallucinatory UFOs and sound · Sound in UFO encounters · The Estes Method, the Double-Blind Ghost Box, and strange sounds ·...</p></details>
